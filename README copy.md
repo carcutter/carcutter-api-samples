@@ -7,7 +7,7 @@ You can easily process images and experiment with the different cut types via ou
 
 Calling the public part of the **CarCutter API** is possible on Linux or Mac via the commands below.
 
-### Complete cut
+### Complete cut of the car
 
 Completely extracts the car from its background and places it into a **rendered 3D showroom**.
 
