@@ -1,5 +1,5 @@
 # carcutter-api-samples
-Code samples for calling the CarCutter API.
+Code samples for calling the free demo CarCutter API.
 
 ## Public demo access
 
